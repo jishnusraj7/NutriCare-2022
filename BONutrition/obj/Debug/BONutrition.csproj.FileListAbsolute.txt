@@ -1,0 +1,15 @@
+E:\Projects\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.dll
+E:\Projects\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.pdb
+E:\Projects\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.dll
+E:\Projects\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.pdb
+E:\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.dll
+E:\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.pdb
+E:\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.csproj.CoreCompileInputs.cache
+E:\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.dll
+E:\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.pdb
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.dll
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\bin\Debug\BONutrition.pdb
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.csproj.AssemblyReference.cache
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.csproj.CoreCompileInputs.cache
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.dll
+C:\Users\indocosmolap8\Desktop\Sajisha_Nutricare error free\Sajisha\Nutrition_2018\NutritionV1\BONutrition\obj\Debug\BONutrition.pdb
